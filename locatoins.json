@@ -1,16 +1,100 @@
-[{
-            "title": "Stockholm",
-                "lat": 59.3,
-                "lng": 18.1,
-                "description": "<strong>Stockholm</strong> is the capital and the largest city of Sweden and constitutes the most populated urban area in Scandinavia with a population of 2.1 million in the metropolitan area (2010)"
-        }, {
-            "title": "Oslo",
-                "lat": 59.9,
-                "lng": 10.8,
-                "description": "<strong>Oslo</strong> is a municipality, and the capital and most populous city of Norway with a metropolitan population of 1,442,318 (as of 2010)."
-        }, {
-            "title": "Copenhagen",
-                "lat": 55.7,
-                "lng": 12.6,
-                "description": "<strong>Copenhagen</strong> is the capital of Denmark and its most populous city, with a metropolitan population of 1,931,467 (as of 1 January 2012)."
-        }]
+[
+    {
+        "title": "Pilot Travel Center",
+        "lat": 34.4085572,
+        "lng": -117.3984194,
+        "address":"8701 Highway 395 Hesperia, CA 92345",
+        "phone": "(760) 956-2844",
+        "description": "(I-15 & US 395)",
+        "storeNumber": "618",
+        "property": "new",
+        "unleaded": "$2,499",
+        "diesel": "$2,859",
+        "bioBlend": "B15",
+        "parking": "197",
+        "wifi": "Premium Wifi",
+        "storesHave": "showers rv-lanes dump-station propane wifi pj-fresh",
+        "restaurants": "wendys dennys mcdonalds subway arbys taco-bell"
+        
+    }, {
+        "title": "Pilot Travel Center",
+        "lat": 34.4944759,
+        "lng": -118.6201487,
+        "address": "31642 Castaic Road Castaic, CA 91384",
+        "phone": "(661) 257-2800",
+        "description": "(I-5 & Lake Hughes Exit)",
+        "property": "under-construction",
+        "storesHave": "showers rv-lanes dump-station propane wifi pj-fresh",
+        "restaurants": "wendys dennys mcdonalds subway arbys taco-bell"
+    }, {
+        "title": "Pilot Travel Center",
+        "lat": 33.9030289,
+        "lng": -116.5461993,
+        "address": "6605 N. Indian Canyon Drive PO Box 581236 North Palm Springs, CA 92258",
+        "phone": "(760) 329-5562",
+        "description": "(I-10 Garnet / Indian Ave)",
+        "property": "newly-remodeled",
+        "storesHave": "rv-lanes",
+        "restaurants": "mcdonalds"
+    }, {
+        "title": "Flying J",
+        "lat": 33.8180527,
+        "lng": -116.4032862,
+        "address": "72235 Varner Rd Thousand Palms, CA 92276",
+        "phone": "(760) 343-1500",
+        "description": "(I-10 Bob Hope Exit)",
+        "property": "opening-soon",
+        "storesHave": "showers",
+        "restaurants": "taco-bell"
+    }, {
+        "title": "Pilot Travel Center",
+        "lat": 32.5684051,
+        "lng": -116.9527522,
+        "address": "1497 Piper Ranch Road San Diego, CA 92154",
+        "phone": "(619) 661-9558",
+        "description": "(I-805 Exit 1B CA 905)",
+        "property": "",
+        "storesHave": "dump-station propane wifi pj-fresh",
+        "restaurants": "mcdonalds arbys"
+    }, {
+        "title": "Pilot Travel Center",
+        "lat": 34.8546806,
+        "lng": -117.0873219,
+        "address": "2591 Commerce Parkway Barstow, CA 92311",
+        "phone": "(760) 253-2861",
+        "description": "(I-15/40/US 58 Lenwood Rd)",
+        "property": "",
+        "storesHave": "wifi",
+        "restaurants": "subway"
+    }, {
+        "title": "Flying J",
+        "lat": 34.854494,
+        "lng": -117.0814646,
+        "address": "2611 Fisher Blvd. Barstow, CA 92311",
+        "phone": "(760) 253-7043",
+        "description": "(I-15 & Lenwood Exit)",
+        "property": "",
+        "storesHave": "propane wifi pj-fresh",
+        "restaurants": "dennys taco-bell"
+    }, {
+        "title": "Pilot Travel Center",
+        "lat": 34.9919593,
+        "lng": -117.5420292,
+        "address": "2611 Fisher Blvd. Barstow, CA 92311",
+        "phone": "(760) 762-0041",
+        "description": "(US 395/US 58)",
+        "property": "",
+        "storesHave": "propane wifi pj-fresh",
+        "restaurants": "mcdonalds subway arbys"
+    }, {
+        "title": "Flying J",
+        "lat": 34.8167237,
+        "lng": -118.8867612,
+        "address": "42810 Frazier Mountain Park Rd Frazier Park, CA 93243",
+        "phone": "(661) 248-2600",
+        "description": "(I-5 Frazier Park Exit 205)",
+        "property": "",
+        "storesHave": "showers rv-lanes",
+        "restaurants": "wendys taco-bell"
+    }
+]
